@@ -1,7 +1,7 @@
 # Français
 
 # Utilité
-VerifID est un NIB (Numéro d'identification bancaire) mis en place via l'api : Bincodes.com
+IDBank est un BIN (Numéro d'identification bancaire) mis en place via l'api : Bincodes.com
 
 # Pré-requis
 npm i discord.js<br/>
@@ -17,7 +17,7 @@ La réponse donnée sera donc :<br/>
 # English
 
 # Usefulness
-VerifID is a BIN (Bank Identification Number) set up via the API: Bincodes.com
+IDBank is a BIN (Bank Identification Number) set up via the API: Bincodes.com
 
 # Pre-requisites
 npm i discord.js <br/>
