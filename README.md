@@ -1,4 +1,4 @@
-# Français
+# Français :fr:
 
 # Utilité
 IDBank est un BIN (Numéro d'identification bancaire) mis en place via l'api : Bincodes.com
@@ -14,7 +14,7 @@ __Pour utiliser ce code, il vous suffit de faire le prefix de votre bot (ici $) 
 $verif 624680<br/><br/>
 La réponse donnée sera donc :<br/>
 
-# English
+# English :gb:
 
 # Usefulness
 IDBank is a BIN (Bank Identification Number) set up via the API: Bincodes.com
