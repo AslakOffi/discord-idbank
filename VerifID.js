@@ -12,7 +12,7 @@ const prefix = config.prefix;
 // Démarrage du bot.
 
 client.on("ready", function() {
-    console.log("[".white + "+".cyan + "]".white + " -".cyan + " VerifID V1.0 crée et développé par".white + " Aslak#001".cyan + ".".white);
+    console.log("[".white + "+".cyan + "]".white + " -".cyan + " VerifID V1.0 crée et développé par".white + " Aslak#0169".cyan + ".".white);
     console.log("[".white + "+".cyan + "]".white + " -".cyan + " Le vérificateur utilise l'api bincodes (".white + "https://bincodes.com/".cyan + ")".white + ".".white);
 });
 
