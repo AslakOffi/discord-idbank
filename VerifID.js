@@ -51,6 +51,4 @@ client.on("message", function(m) {
 
 });
 
-// Veuillez entrer le token de votre bot à la place de "token".
-
 client.login(token);
