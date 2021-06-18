@@ -1,3 +1,5 @@
+// Déclaration des constantes.
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const colors = require('colors');
