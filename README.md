@@ -12,7 +12,7 @@ npm i request<br/>
 # Utilisation
 __Pour utiliser ce code, il vous suffit de faire le prefix de votre bot (ici $) plus "verif"__<br/><br/>Exemple :<br/>
 $verif 624680<br/><br/>
-Il faut ensuite changer le config.json
+__Il faut ensuite changer le config.json__
 
 # English :gb:
 
